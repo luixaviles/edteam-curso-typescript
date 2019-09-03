@@ -62,7 +62,7 @@
   },
 
   "include": [
-    "src/**/*.ts"
+    "src/clase-03/*.ts"
   ],
   "exclude": [
     "src/*-test.ts"
