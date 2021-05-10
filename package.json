@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/luixaviles/edteam-curso-typescript#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.138"
